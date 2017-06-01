@@ -1,2 +1,0 @@
-red
-this is a new file,named red.
